@@ -13,8 +13,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'Rocco BBQ | O Verdadeiro Churrasco Texano em Jarinu',
-  description: 'Burgers artesanais, ingredientes selecionados e uma experiência que vai além do sabor em Jarinu - SP.',
+  title: 'Dream Burguer | Sabor Irresistível em Jarinu',
+  description: 'Os melhores lanches e hot dogs de Jarinu. Experiência artesanal, entrega rápida e qualidade impecável.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

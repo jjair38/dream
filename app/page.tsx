@@ -130,7 +130,7 @@ const Hero = () => {
 const About = () => {
   const highlights = [
     { icon: <UtensilsCrossed className="w-6 h-6" />, title: "Ingredientes Premium", desc: "Carnes nobres e insumos selecionados." },
-    { icon: <Star className="w-6 h-6" />, title: "Preparo Artesanal", desc: "Técnicas texanas de defumação e grelha." },
+    { icon: <Star className="w-6 h-6" />, title: "Preparo Artesanal", desc: "Hambúrgueres e hot dogs feitos com paixão." },
     { icon: <Instagram className="w-6 h-6" />, title: "Ambiente Aconchegante", desc: "O lugar perfeito para momentos especiais." },
     { icon: <Clock className="w-6 h-6" />, title: "Música ao Vivo", desc: "Experiência completa com boa música." },
   ];
